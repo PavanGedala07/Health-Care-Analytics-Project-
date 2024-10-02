@@ -1,5 +1,6 @@
 # Health-Care-Analytics-Project-
 PowerBI Health Care Analytics Project 
+
 Link:- https://app.powerbi.com/groups/me/reports/d93f31c3-3e91-4471-aee9-6462c738d6ba/953f6fd5809e1608c3d7?experience=power-bi
 
 The Power BI Healthcare Analytic Dashboard project, focused on hospital-clinic reports, offers comprehensive healthcare data analysis. Key elements of the project include:
